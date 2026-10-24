@@ -4,6 +4,9 @@
         <loc>https://docs.klipspringer.net/</loc>
       </url>
       <url>
+        <loc>https://docs.klipspringer.net/guides/kiosk/</loc>
+      </url>
+      <url>
         <loc>https://docs.klipspringer.net/guides/notifications/</loc>
       </url>
       <url>
@@ -13,10 +16,22 @@
         <loc>https://docs.klipspringer.net/guides/products/</loc>
       </url>
       <url>
+        <loc>https://docs.klipspringer.net/guides/scheduling/</loc>
+      </url>
+      <url>
+        <loc>https://docs.klipspringer.net/guides/sso/</loc>
+      </url>
+      <url>
+        <loc>https://docs.klipspringer.net/guides/tax/</loc>
+      </url>
+      <url>
         <loc>https://docs.klipspringer.net/guides/tickets/</loc>
       </url>
       <url>
         <loc>https://docs.klipspringer.net/guides/venues/</loc>
+      </url>
+      <url>
+        <loc>https://docs.klipspringer.net/guides/vouchers/</loc>
       </url>
       <url>
         <loc>https://docs.klipspringer.net/legal/gdpr/</loc>
