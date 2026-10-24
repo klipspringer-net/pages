@@ -1,27 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
       <url>
-        <loc>https://docs.klipspringer.net/docs/</loc>
+        <loc>https://docs.klipspringer.net/</loc>
       </url>
       <url>
-        <loc>https://docs.klipspringer.net/docs/guides/notifications/</loc>
+        <loc>https://docs.klipspringer.net/guides/notifications/</loc>
       </url>
       <url>
-        <loc>https://docs.klipspringer.net/docs/guides/payments/</loc>
+        <loc>https://docs.klipspringer.net/guides/payments/</loc>
       </url>
       <url>
-        <loc>https://docs.klipspringer.net/docs/guides/products/</loc>
+        <loc>https://docs.klipspringer.net/guides/products/</loc>
       </url>
       <url>
-        <loc>https://docs.klipspringer.net/docs/guides/tickets/</loc>
+        <loc>https://docs.klipspringer.net/guides/tickets/</loc>
       </url>
       <url>
-        <loc>https://docs.klipspringer.net/docs/guides/venues/</loc>
+        <loc>https://docs.klipspringer.net/guides/venues/</loc>
       </url>
       <url>
-        <loc>https://docs.klipspringer.net/docs/legal/gdpr/</loc>
+        <loc>https://docs.klipspringer.net/legal/gdpr/</loc>
       </url>
       <url>
-        <loc>https://docs.klipspringer.net/docs/legal/subprocessors/</loc>
+        <loc>https://docs.klipspringer.net/legal/subprocessors/</loc>
+      </url>
+      <url>
+        <loc>https://docs.klipspringer.net/pricing/</loc>
       </url>
 </urlset>
